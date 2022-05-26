@@ -55,7 +55,7 @@ function action(bp: typeof sdk, event: sdk.IO.IncomingEvent, args: any, { user, 
       ],
       thursday: [
         { start: '08:00:00', end: '12:00:00' },
-        { start: '13:00:00', end: '18:00:00' }
+        { start: '13:30:00', end: '18:00:00' }
       ],
       friday: [
         { start: '08:00:00', end: '12:00:00' },
