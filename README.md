@@ -1,3 +1,4 @@
-<h2 style="color: #2e6c80;"><span style="color: #000000;">Dependencies</span></h2>
-<p>mkdir /your_path/BotPress/shared_libs<br />cd /your_pathBotPress/shared_libs <br />npm install dayjs-business-time</p>
-<p><strong>&nbsp;</strong></p>
+<h2 dir="auto"><a id="user-content-dependencies" class="anchor" href="https://github.com/all4conn-mariano/All4Chat#dependencies" aria-hidden="true"></a>Dependencies</h2>
+<p dir="auto">mkdir /your_path/BotPress/shared_libs<br />cd /your_pathBotPress/shared_libs <br />npm install dayjs-business-time</p>
+<h2 dir="auto">Create a node on BotPress</h2>
+<p dir="auto"><img src="https://www.all4conn.com.br/img/botpress_node.png" alt="" width="198" height="145" /></p>
